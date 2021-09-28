@@ -1,6 +1,6 @@
 {
-    "name": "design",
-    "short_name": "design",
+    "name": "flutter_ui_design",
+    "short_name": "flutter_ui_design",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
